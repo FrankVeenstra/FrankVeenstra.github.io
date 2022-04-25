@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+<h1>About</h1>
 
-You can use the [editor on GitHub](https://github.com/FrankVeenstra/FrankVeenstra.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+<img src="https://www.mn.uio.no/ifi/english/people/aca/frankvee/cvfoto4.png" style="float:left;  padding-right: 20px;" alt="Me" width="200">
+<body style="float:right">
+    I am postdoctoral researcher at the University of Oslo in evolutionary robotics that investigates
+    principles of evolution in artificial systems. I am interested in how life arose,
+    and how this knowledge can be used as a tool to create artificial life. I enjoy conceptualizing early life forms and speculate about the necessary conditions that steered them to evolve into the amazingly complex organisms that we see today.
+    <br><br>
+    I focus on investigating how control systems, morphogenesis and evolutionary computation can be combined to give rise to virtual creatures and even robots. Will we be able to learn any essential evolutionary principles or developmental strategies from these models? Will these models ultimately be able to inform us on how to design artificial life?
+    <br><br>
+    Apart from research, I am a game design enthusiast interested in procedural game design, physics-based simulations, programming shaders, 3D-modeling, animations and designing music for games. I also enjoy understanding scientific methods through simulating and illustrating them now in the Unity game engine.
+</body>
+<br />
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Selected projects
 
-### Markdown
+Under construction
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Contact
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FrankVeenstra/FrankVeenstra.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+For contact information [click here](https://www.mn.uio.no/ifi/english/people/aca/frankvee/)
